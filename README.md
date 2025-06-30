@@ -10,7 +10,7 @@ Track reported incidents by location
 Monitor the spread and frequency of emergencies across a city or globally
 
 Receive real-time updates from citizens—no app install needed
-
+```
 frontend/
 ├── src/
 │   ├── assets/         
@@ -22,3 +22,5 @@ frontend/
 ├── public/
 ├── .env
 └── vite.config.js
+
+```
